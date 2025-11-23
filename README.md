@@ -1,4 +1,4 @@
-🌦️ Real-Time Weather Dashboard in Power BI
+## 🌦️ Real-Time Weather Dashboard in Power BI
 
 A fully interactive Power BI Weather Dashboard built using live data from WeatherAPI.com.
 This project demonstrates advanced data modeling, API integration, Power Query transformations, and dashboard design using a modern UI theme.
