@@ -22,3 +22,5 @@ City selection powered by a dedicated Locations table
 You can view the interactive Power BI report here:
 
 👉 [**Open the Real-Time Weather Dashboard**](https://utoronto-my.sharepoint.com/:u:/g/personal/ameer_khan_mail_utoronto_ca/EbxCs3D3QqdLuJKPUyjyXmIBhe3vv_Uxv6GKk48UN4RvVA?e=7woVbq)
+
+<img width="1529" height="858" alt="image" src="https://github.com/user-attachments/assets/b6b734ee-9dc2-49b7-8082-21f7db9024ca" />
